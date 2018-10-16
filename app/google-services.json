@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "594595265574",
+    "firebase_url": "https://vamos-conversar.firebaseio.com",
+    "project_id": "vamos-conversar",
+    "storage_bucket": "vamos-conversar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594595265574:android:bc094c6d71a4ef87",
+        "android_client_info": {
+          "package_name": "com.wordpress.vamosconversar2018.vamosconversar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594595265574-qqvd67vqjhoh4mvs0hj76d05t6csk1cr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wordpress.vamosconversar2018.vamosconversar",
+            "certificate_hash": "8aa427f30ee6ce72e729d5b9c9f686bb3ef5b7e0"
+          }
+        },
+        {
+          "client_id": "594595265574-01jb0rqck36usqrpaka2bko6on4ssjf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOyxFSIbKtADwGl5cFHd5VhqnlzBNdBCg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594595265574-01jb0rqck36usqrpaka2bko6on4ssjf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
